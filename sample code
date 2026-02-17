@@ -1,0 +1,12 @@
+public class main{
+public static void main(String[] args){
+       int [] arr = new int[3];
+    //System.out.println("First index :"+arr[0]);
+    //System.out.println("Second index :"+arr[1]);
+    //@modifier
+        arr[0] = 44;
+        arr[1] = 23;
+    System.out.println("First index :"+arr[0]);
+    System.out.println("Second index :"+arr[1]);
+  }
+}
